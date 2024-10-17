@@ -4,9 +4,7 @@ import { customers } from "@/app/lib/placeholder-data";
 function Page() {
   return (
     <div>
-      <div>
-        <CustomersTable customers={customers} />
-      </div>
+      <div>{/* <CustomersTable customers={customers}  */}</div>
     </div>
   );
 }
